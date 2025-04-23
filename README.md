@@ -3,12 +3,11 @@
 [![Views](https://komarev.com/ghpvc/?username=adityachaudharycode&color=brightgreen)](https://github.com/adityachaudharycode)
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/adityachaudharycode)
 
-I'm a Full Stack Developer passionate about creating innovative solutions that make a difference. Currently working on AI-powered applications in agriculture and education sectors.
+I'm a Software Developer passionate about creating innovative solutions that make a difference. Currently working on AI-powered applications in agriculture and education sectors.
 
 ## 🚀 Featured Projects
 
 ### KrishiSahayak - AI-Powered Livestock Health Platform
-[![KrishiSahayak Demo](https://img.shields.io/badge/Demo-Live-success)](https://krishisahayak.render.com)
 
 An intelligent system helping farmers and veterinarians detect livestock diseases through:
 - 🤖 AI-powered image recognition for disease detection
@@ -20,7 +19,7 @@ An intelligent system helping farmers and veterinarians detect livestock disease
 **Tech Stack:** Python, Flask, TensorFlow, SQLite, Google Gemini API, Firebase
 
 ### MentorVerse - Educational Platform
-[![MentorVerse Demo](https://img.shields.io/badge/Demo-Live-success)](https://mentorverse.render.com)
+[![MentorVerse Demo]]([https://mentorverse.render.com](https://adityachaudharycode.github.io/MentorVers/))
 
 A comprehensive platform connecting mentors and students:
 - 👥 Mentor-student matching system
@@ -29,7 +28,7 @@ A comprehensive platform connecting mentors and students:
 - 📊 Progress tracking
 - 🎓 Course management
 
-**Tech Stack:** [Add your tech stack for MentorVerse]
+**Tech Stack:** [Html,css,js,firebase]
 
 ## 💻 Skills
 
@@ -51,15 +50,14 @@ A comprehensive platform connecting mentors and students:
 
 ## 📊 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityachaudharycode&show_icons=true&theme=radical)](https://github.com/adityachaudharycoode)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityachaudharcode&layout=compact&theme=radical)](https://github.com/adityachaudharycode)
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/aditya-chaudhary-730a1432a))
+
 
 ---
-⭐️ From [your name](https://github.com/yourusername)
+⭐️ From [Aditya Chaudhary](https://github.com/adityachaudharycode)
