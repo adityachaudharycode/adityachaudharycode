@@ -1,6 +1,6 @@
 # Hi there! 👋 
 
-[![Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen)](https://github.com/adityachaudharycode)
+[![Views](https://komarev.com/ghpvc/?username=adityachaudharycode&color=brightgreen)](https://github.com/adityachaudharycode)
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/adityachaudharycode)
 
 I'm a Full Stack Developer passionate about creating innovative solutions that make a difference. Currently working on AI-powered applications in agriculture and education sectors.
