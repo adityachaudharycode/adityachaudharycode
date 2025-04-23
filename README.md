@@ -52,11 +52,11 @@ A comprehensive platform connecting mentors and students:
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityachaudharycode&show_icons=true&theme=radical)](https://github.com/adityachaudharycoode)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityachaudharcode&layout=compact&theme=radical)](https://github.com/adityachaudharycode)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityachaudharycode&layout=compact&theme=radical)](https://github.com/adityachaudharycode)
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/aditya-chaudhary-730a1432a))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)][((https://www.linkedin.com/in/aditya-chaudhary-730a1432a))]
 
 
 ---
