@@ -15,7 +15,8 @@ An intelligent system helping farmers and veterinarians detect livestock disease
 - 📊 Real-time disease outbreak tracking
 - 🔊 Text-to-Speech & Speech-to-Text features
 - 📱 Responsive design with Dark/Light mode
-- 🎙️ Give symptoms using your voice in your local language support 
+- 🎙️ Give symptoms using your voice in your local language support
+  
 **Tech Stack:** Python, Flask, TensorFlow, SQLite, Google Gemini API, Firebase
 
 ### MentorVerse - Educational Platform
@@ -27,7 +28,9 @@ A comprehensive platform connecting mentors and students:
 - 💬 Real-time communication
 - 📊 Progress tracking
 - 🎓 Course management
--still working on it
+-  still working on it
+  
+
 **Tech Stack:** [Html,css,js,firebase]
 
 ## 💻 Skills
