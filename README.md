@@ -19,7 +19,7 @@ An intelligent system helping farmers and veterinarians detect livestock disease
 **Tech Stack:** Python, Flask, TensorFlow, SQLite, Google Gemini API, Firebase
 
 ### MentorVerse - Educational Platform
-[![MentorVerse Demo]]([https://mentorverse.render.com](https://adityachaudharycode.github.io/MentorVers/))
+([https://mentorverse.render.com](https://adityachaudharycode.github.io/MentorVers/))
 
 A comprehensive platform connecting mentors and students:
 - 👥 Mentor-student matching system
@@ -27,7 +27,7 @@ A comprehensive platform connecting mentors and students:
 - 💬 Real-time communication
 - 📊 Progress tracking
 - 🎓 Course management
-
+still working on it
 **Tech Stack:** [Html,css,js,firebase]
 
 ## 💻 Skills
@@ -56,7 +56,7 @@ A comprehensive platform connecting mentors and students:
 
 ## 🤝 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)][((https://www.linkedin.com/in/aditya-chaudhary-730a1432a))]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/aditya-chaudhary-730a1432a)]
 
 
 ---
